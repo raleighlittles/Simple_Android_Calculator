@@ -14,5 +14,5 @@ This is a basic 4-function calculator application.
 
 # Install
 
-Use the apk located in ```app/build/outputs/apk/debug``.
+Use the apk located in ```app/build/outputs/apk/debug```.
 

@@ -5,8 +5,11 @@ I wanted to learn about Android development so I made an extremely simple Calcul
 
 # About
 
+This is a basic 4-function calculator application.
 
-# Screenshot
+
+# Screenshots
+
 
 
 # Install

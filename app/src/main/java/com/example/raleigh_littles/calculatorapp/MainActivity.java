@@ -113,6 +113,13 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        binding.buttonPi.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                binding.editText.setText(binding.editText.getText() + "3.14159265");
+            }
+        });
+
         binding.buttonAdd.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
